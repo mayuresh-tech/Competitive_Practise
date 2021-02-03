@@ -16,16 +16,10 @@
     <Filter Include="Source Files\File_Odd_&amp;_Even">
       <UniqueIdentifier>{85dc75f8-4fb7-4577-8535-35affc307b58}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Vector_STL">
-      <UniqueIdentifier>{59b03061-7697-4d74-9e0d-f6dc8e634c98}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="File_Odd_Even.cpp">
       <Filter>Source Files\File_Odd_&amp;_Even</Filter>
-    </ClCompile>
-    <ClCompile Include="Vector.cpp">
-      <Filter>Source Files\Vector_STL</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
