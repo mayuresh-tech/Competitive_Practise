@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Digit_Count.cpp" />
     <ClCompile Include="Files.h" />
     <ClCompile Include="File_Sort_Even_Odd.cpp" />
     <ClCompile Include="main.cpp" />

@@ -12,7 +12,10 @@ int main() {
 	//weird_algo();
 
 	/* Square Stars */
-	printSquareStar();
+	//printSquareStar();
+
+	/* Digit Count */
+	getDigitCount();
 
 	return 0;
 }
