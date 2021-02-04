@@ -1,4 +1,5 @@
-﻿  Vector.cpp
-C:\Users\MAYURESH\source\repos\Competitive\Competitive\Vector.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
-Vector.obj : error LNK2005: _main already defined in File_Odd_Even.obj
-C:\Users\MAYURESH\source\repos\Competitive\Debug\Competitive.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  File_Sort.h
+  File_Sort_Even_Odd.cpp
+  main.cpp
+  Generating Code...
+  Competitive.vcxproj -> C:\Users\MAYURESH\source\repos\Competitive\Debug\Competitive.exe

@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="File_Odd_Even.cpp" />
+    <ClCompile Include="File_Sort.h" />
+    <ClCompile Include="File_Sort_Even_Odd.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt" />

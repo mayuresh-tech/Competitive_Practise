@@ -13,21 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\File_Odd_&amp;_Even">
-      <UniqueIdentifier>{85dc75f8-4fb7-4577-8535-35affc307b58}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="File_Odd_Even.cpp">
-      <Filter>Source Files\File_Odd_&amp;_Even</Filter>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Sort.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Sort_Even_Odd.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">
-      <Filter>Source Files\File_Odd_&amp;_Even</Filter>
+      <Filter>Source Files</Filter>
     </Text>
     <Text Include="odd.txt">
-      <Filter>Source Files\File_Odd_&amp;_Even</Filter>
+      <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
 </Project>
