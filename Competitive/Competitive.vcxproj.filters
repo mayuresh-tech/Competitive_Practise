@@ -27,6 +27,9 @@
     <ClCompile Include="Files.h">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="Square_Stars.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">

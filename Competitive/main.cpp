@@ -9,7 +9,10 @@ int main() {
 	//file_even_odd_sort();
 
 	/* Weird Algorithm */
-	weird_algo();
+	//weird_algo();
+
+	/* Square Stars */
+	printSquareStar();
 
 	return 0;
 }
