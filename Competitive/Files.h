@@ -4,3 +4,4 @@ void printSquareStar();
 void getDigitCount();
 void printFactors();
 void sumFirstAndLastDigit();
+void getEvenDigitSum();

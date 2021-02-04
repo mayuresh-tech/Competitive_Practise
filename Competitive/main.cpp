@@ -21,7 +21,10 @@ int main() {
 	//printFactors();
 
 	/* Sum of First and Last Digit */
-	sumFirstAndLastDigit();
+	//sumFirstAndLastDigit();
+
+	/* Even Digit Sum */
+	getEvenDigitSum();
 
 	return 0;
 }
