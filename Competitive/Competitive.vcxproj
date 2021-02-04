@@ -143,6 +143,7 @@
     <ClCompile Include="Files.h" />
     <ClCompile Include="File_Sort_Even_Odd.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Factors.cpp" />
     <ClCompile Include="Square_Stars.cpp" />
     <ClCompile Include="Weird_Algo.cpp" />
   </ItemGroup>

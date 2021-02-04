@@ -15,7 +15,10 @@ int main() {
 	//printSquareStar();
 
 	/* Digit Count */
-	getDigitCount();
+	//getDigitCount();
+
+	/* Print Factors of a Number */
+	printFactors();
 
 	return 0;
 }
