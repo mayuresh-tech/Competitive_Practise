@@ -36,6 +36,9 @@
     <ClCompile Include="Factors.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sum_First_and_Last_Digit.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">

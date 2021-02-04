@@ -3,3 +3,4 @@ void weird_algo();
 void printSquareStar();
 void getDigitCount();
 void printFactors();
+void sumFirstAndLastDigit();

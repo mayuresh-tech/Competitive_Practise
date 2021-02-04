@@ -145,6 +145,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Factors.cpp" />
     <ClCompile Include="Square_Stars.cpp" />
+    <ClCompile Include="Sum_First_and_Last_Digit.cpp" />
     <ClCompile Include="Weird_Algo.cpp" />
   </ItemGroup>
   <ItemGroup>

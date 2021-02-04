@@ -18,7 +18,10 @@ int main() {
 	//getDigitCount();
 
 	/* Print Factors of a Number */
-	printFactors();
+	//printFactors();
+
+	/* Sum of First and Last Digit */
+	sumFirstAndLastDigit();
 
 	return 0;
 }
