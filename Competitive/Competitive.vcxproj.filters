@@ -42,6 +42,9 @@
     <ClCompile Include="Even_Digit_Sum.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Palindrome.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">

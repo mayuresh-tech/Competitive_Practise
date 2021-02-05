@@ -5,3 +5,4 @@ void getDigitCount();
 void printFactors();
 void sumFirstAndLastDigit();
 void getEvenDigitSum();
+void palindrome();

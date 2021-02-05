@@ -24,7 +24,10 @@ int main() {
 	//sumFirstAndLastDigit();
 
 	/* Even Digit Sum */
-	getEvenDigitSum();
+	//getEvenDigitSum();
+
+	/* Check Palindrome */
+	palindrome();
 
 	return 0;
 }
