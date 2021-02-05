@@ -6,3 +6,6 @@ void printFactors();
 void sumFirstAndLastDigit();
 void getEvenDigitSum();
 void palindrome();
+void isLeapYear();
+void toMilesPerHour();
+void printMegaBytesAndKiloBytes();

@@ -27,7 +27,16 @@ int main() {
 	//getEvenDigitSum();
 
 	/* Check Palindrome */
-	palindrome();
+	//palindrome();
+
+	/* Check Leap Year */
+	//isLeapYear();
+
+	/* Convert Kilo Per Hour to Miles Per hour */
+	//toMilesPerHour();
+
+	/* Kb to Mb */
+	printMegaBytesAndKiloBytes();
 
 	return 0;
 }
