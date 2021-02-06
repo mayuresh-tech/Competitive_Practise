@@ -36,7 +36,10 @@ int main() {
 	//toMilesPerHour();
 
 	/* Kb to Mb */
-	printMegaBytesAndKiloBytes();
+	//printMegaBytesAndKiloBytes();
+
+	/* Find missing number in a sequence */
+	missing();
 
 	return 0;
 }

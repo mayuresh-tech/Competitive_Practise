@@ -54,6 +54,9 @@
     <ClCompile Include="KB_to_MB.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Missing_Num.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">
