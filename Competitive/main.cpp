@@ -39,7 +39,10 @@ int main() {
 	//printMegaBytesAndKiloBytes();
 
 	/* Find missing number in a sequence */
-	missing();
+	//missing();
+
+	/* Repetition Count */
+	repitition();
 
 	return 0;
 }
