@@ -11,3 +11,4 @@ void toMilesPerHour();
 void printMegaBytesAndKiloBytes();
 void missing();
 void repitition();
+void incre_array();

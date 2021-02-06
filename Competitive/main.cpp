@@ -42,7 +42,10 @@ int main() {
 	//missing();
 
 	/* Repetition Count */
-	repitition();
+	//repitition();
+
+	/* Increasing array */
+	incre_array();
 
 	return 0;
 }

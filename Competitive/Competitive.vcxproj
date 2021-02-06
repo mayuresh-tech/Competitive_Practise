@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Digit_Count.cpp" />
     <ClCompile Include="Even_Digit_Sum.cpp" />
+    <ClCompile Include="Increasing_Array.cpp" />
     <ClCompile Include="KB_to_MB.cpp" />
     <ClCompile Include="Leap_Year.cpp" />
     <ClCompile Include="Miles_to_Hours.cpp" />
