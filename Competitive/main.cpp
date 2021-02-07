@@ -57,10 +57,13 @@ int main() {
 	//ArmStrong();
 
 	/* Reverse */
-	reverse();
+	//reverse();
 
 	/* Swap without Third variable */
 	//swap();
+
+	/* Decimal to Binary */
+	decimalToBinary();
 
 	return 0;
 }

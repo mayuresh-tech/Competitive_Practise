@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Armstrong.cpp" />
+    <ClCompile Include="Decimal_to_Binary.cpp" />
     <ClCompile Include="Digit_Count.cpp" />
     <ClCompile Include="Even_Digit_Sum.cpp" />
     <ClCompile Include="Increasing_Array.cpp" />
