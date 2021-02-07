@@ -57,10 +57,10 @@ int main() {
 	//ArmStrong();
 
 	/* Reverse */
-	//reverse();
+	reverse();
 
 	/* Swap without Third variable */
-	swap();
+	//swap();
 
 	return 0;
 }
