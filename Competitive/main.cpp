@@ -54,7 +54,10 @@ int main() {
 	//isPerfectNumber();
 
 	/* Armstrong number */
-	ArmStrong();
+	//ArmStrong();
+
+	/* Reverse */
+	reverse();
 
 	return 0;
 }

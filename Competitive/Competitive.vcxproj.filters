@@ -72,6 +72,9 @@
     <ClCompile Include="Armstrong.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Reverse.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">

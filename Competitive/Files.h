@@ -15,3 +15,4 @@ void incre_array();
 void printYearsAndDays();
 void isPerfectNumber();
 void ArmStrong();
+void reverse();
