@@ -152,6 +152,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Factors.cpp" />
     <ClCompile Include="Repetition.cpp" />
+    <ClCompile Include="Reverse.cpp" />
     <ClCompile Include="Square_Stars.cpp" />
     <ClCompile Include="Sum_First_and_Last_Digit.cpp" />
     <ClCompile Include="Weird_Algo.cpp" />

@@ -45,7 +45,10 @@ int main() {
 	//repitition();
 
 	/* Increasing array */
-	incre_array();
+	//incre_array();
+
+	/* Print Years and Days from Minutes */
+	printYearsAndDays();
 
 	return 0;
 }
