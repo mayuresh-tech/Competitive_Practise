@@ -48,7 +48,10 @@ int main() {
 	//incre_array();
 
 	/* Print Years and Days from Minutes */
-	printYearsAndDays();
+	//printYearsAndDays();
+
+	/* Check for Perfect Number */
+	isPerfectNumber();
 
 	return 0;
 }

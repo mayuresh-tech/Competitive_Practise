@@ -13,3 +13,4 @@ void missing();
 void repitition();
 void incre_array();
 void printYearsAndDays();
+void isPerfectNumber();
