@@ -16,3 +16,4 @@ void printYearsAndDays();
 void isPerfectNumber();
 void ArmStrong();
 void reverse();
+void swap();
