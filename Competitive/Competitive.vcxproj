@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Armstrong.cpp" />
     <ClCompile Include="Digit_Count.cpp" />
     <ClCompile Include="Even_Digit_Sum.cpp" />
     <ClCompile Include="Increasing_Array.cpp" />

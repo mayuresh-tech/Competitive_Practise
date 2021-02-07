@@ -69,6 +69,9 @@
     <ClCompile Include="PerfectNumber.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Armstrong.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">

@@ -51,7 +51,10 @@ int main() {
 	//printYearsAndDays();
 
 	/* Check for Perfect Number */
-	isPerfectNumber();
+	//isPerfectNumber();
+
+	/* Armstrong number */
+	ArmStrong();
 
 	return 0;
 }
