@@ -1,6 +1,5 @@
 ﻿  Files.h
   main.cpp
-  PerfectNumber.cpp
-  Year_and_Days.cpp
+  Two_Knights.cpp
   Generating Code...
   Competitive.vcxproj -> C:\Users\MAYURESH\source\repos\Competitive\Debug\Competitive.exe

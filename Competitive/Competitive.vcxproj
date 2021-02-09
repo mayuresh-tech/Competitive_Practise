@@ -158,6 +158,7 @@
     <ClCompile Include="Repetition.cpp" />
     <ClCompile Include="Reverse.cpp" />
     <ClCompile Include="Swap.cpp" />
+    <ClCompile Include="Two_Knights.cpp" />
     <ClCompile Include="Year_and_Days.cpp" />
     <ClCompile Include="Square_Stars.cpp" />
     <ClCompile Include="Sum_First_and_Last_Digit.cpp" />

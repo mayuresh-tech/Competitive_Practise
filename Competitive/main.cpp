@@ -66,7 +66,10 @@ int main() {
 	//decimalToBinary();
 
 	/* Coin Piles */
-	coin_piles();
+	//coin_piles();
+
+	/* Two Knights */
+	knight();
 
 	return 0;
 }

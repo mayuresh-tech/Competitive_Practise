@@ -19,3 +19,4 @@ void reverse();
 void swap();
 void decimalToBinary();
 void coin_piles();
+void knight();
