@@ -20,3 +20,4 @@ void swap();
 void decimalToBinary();
 void coin_piles();
 void knight();
+void bit_strings();

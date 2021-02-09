@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Armstrong.cpp" />
+    <ClCompile Include="Bit_Strings.cpp" />
     <ClCompile Include="Coin_Piles.cpp" />
     <ClCompile Include="Decimal_to_Binary.cpp" />
     <ClCompile Include="Digit_Count.cpp" />

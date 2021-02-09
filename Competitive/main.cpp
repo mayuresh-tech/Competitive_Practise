@@ -69,7 +69,10 @@ int main() {
 	//coin_piles();
 
 	/* Two Knights */
-	knight();
+	//knight();
+
+	/* Bit Strings */
+	bit_strings();
 
 	return 0;
 }
