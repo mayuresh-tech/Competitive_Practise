@@ -63,7 +63,10 @@ int main() {
 	//swap();
 
 	/* Decimal to Binary */
-	decimalToBinary();
+	//decimalToBinary();
+
+	/* Coin Piles */
+	coin_piles();
 
 	return 0;
 }

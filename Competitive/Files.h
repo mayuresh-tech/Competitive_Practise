@@ -18,3 +18,4 @@ void ArmStrong();
 void reverse();
 void swap();
 void decimalToBinary();
+void coin_piles();

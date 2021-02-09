@@ -81,6 +81,9 @@
     <ClCompile Include="Decimal_to_Binary.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Coin_Piles.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">
