@@ -1,7 +1,4 @@
-﻿  Bit_Strings.cpp
-C:\Users\MAYURESH\source\repos\Competitive\Competitive\Bit_Strings.cpp(25,21): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
-  Files.h
+﻿  Files.h
   main.cpp
-  Two_Knights.cpp
   Generating Code...
   Competitive.vcxproj -> C:\Users\MAYURESH\source\repos\Competitive\Debug\Competitive.exe

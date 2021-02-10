@@ -75,7 +75,10 @@ int main() {
 	//bit_strings();
 
 	/* Permutations */
-	permutations();
+	//permutations();
+
+	/* Number Spiral */
+	numberSpiral();
 
 	return 0;
 }

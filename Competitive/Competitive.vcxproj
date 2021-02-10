@@ -150,12 +150,14 @@
     <ClCompile Include="Leap_Year.cpp" />
     <ClCompile Include="Miles_to_Hours.cpp" />
     <ClCompile Include="Missing_Num.cpp" />
+    <ClCompile Include="Number_Spiral.cpp" />
     <ClCompile Include="Palindrome.cpp" />
     <ClCompile Include="Files.h" />
     <ClCompile Include="File_Sort_Even_Odd.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Factors.cpp" />
     <ClCompile Include="PerfectNumber.cpp" />
+    <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Repetition.cpp" />
     <ClCompile Include="Reverse.cpp" />
     <ClCompile Include="Swap.cpp" />

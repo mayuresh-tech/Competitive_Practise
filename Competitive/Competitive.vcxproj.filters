@@ -90,6 +90,12 @@
     <ClCompile Include="Bit_Strings.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Permutations.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Number_Spiral.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">
