@@ -72,7 +72,10 @@ int main() {
 	//knight();
 
 	/* Bit Strings */
-	bit_strings();
+	//bit_strings();
+
+	/* Permutations */
+	permutations();
 
 	return 0;
 }
