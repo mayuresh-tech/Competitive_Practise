@@ -78,7 +78,10 @@ int main() {
 	//permutations();
 
 	/* Number Spiral */
-	numberSpiral();
+	//numberSpiral();
+
+	/* Trailing Zeroes */
+	zeroes();
 
 	return 0;
 }

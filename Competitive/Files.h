@@ -23,3 +23,4 @@ void knight();
 void bit_strings();
 void permutations();
 void numberSpiral();
+void zeroes();
