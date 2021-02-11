@@ -17,7 +17,9 @@ void reorder()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
+
     cin >> s;
+
     for (char& c : s)
     {
         if (!chk[c - 'A'])
