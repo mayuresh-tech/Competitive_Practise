@@ -81,7 +81,10 @@ int main() {
 	//numberSpiral();
 
 	/* Trailing Zeroes */
-	zeroes();
+	//zeroes();
+
+	/* Palindrome reorder */
+	reorder();
 
 	return 0;
 }

@@ -99,6 +99,9 @@
     <ClCompile Include="Trailing_Zeroes.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Palindrome_Reorder.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="even.txt">

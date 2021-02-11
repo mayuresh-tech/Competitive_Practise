@@ -24,3 +24,4 @@ void bit_strings();
 void permutations();
 void numberSpiral();
 void zeroes();
+void reorder();

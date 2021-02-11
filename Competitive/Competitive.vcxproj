@@ -156,6 +156,7 @@
     <ClCompile Include="File_Sort_Even_Odd.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Factors.cpp" />
+    <ClCompile Include="Palindrome_Reorder.cpp" />
     <ClCompile Include="PerfectNumber.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Repetition.cpp" />

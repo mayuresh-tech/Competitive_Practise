@@ -1,5 +1,3 @@
-﻿  Files.h
-  main.cpp
-  Trailing_Zeroes.cpp
-  Generating Code...
+﻿  Palindrome_Reorder.cpp
+C:\Users\MAYURESH\source\repos\Competitive\Competitive\Palindrome_Reorder.cpp(10,21): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
   Competitive.vcxproj -> C:\Users\MAYURESH\source\repos\Competitive\Debug\Competitive.exe
